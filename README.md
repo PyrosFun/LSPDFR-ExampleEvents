@@ -1,3 +1,7 @@
+> [!important]
+> Repo has been moved to my person GitLab. Issues on GitHub will be ignored.
+> New home: https://git.pyrosfun.com/
+
 # SuperEvents API Guide
 ***By SuperPyroManiac***
 <br>
